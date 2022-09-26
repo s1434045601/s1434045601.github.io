@@ -1,20 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search> 
-  
-  
-    
-    <entry>
-      <title></title>
-      <link href="/2022/09/25/102/"/>
-      <url>/2022/09/25/102/</url>
-      
-        <content type="html"><![CDATA[<p>123456</p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-  
-  
+<search>
+  <entry>
+    <title></title>
+    <url>/2022/09/25/102/</url>
+    <content><![CDATA[<p>123456</p>
+]]></content>
+  </entry>
 </search>
